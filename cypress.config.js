@@ -8,7 +8,7 @@ module.exports = defineConfig({
     excludeSpecPattern: '*.js',
     specPattern: 'cypress/integration/**/*.{feature,features}',
     baseUrl: 'http://localhost:3000',
-    baseApiUrl: 'https://30.javascript.pages.academy/kekstagram',
+    baseApiUrl: 'https://31.javascript.htmlacademy.pro/kekstagram',
     viewportHeight: 1000,
     viewportWidth: 1280,
     experimentalWebKitSupport: true,
